@@ -122,7 +122,7 @@ const Home = () => {
                 paddingBottom: "5px",
               }}
             >
-              ENTNT
+              MY PROJECT
             </h1>
             <h2
               style={{
@@ -138,7 +138,7 @@ const Home = () => {
                 paddingBottom: "5px",
               }}
             >
-              REMOTE TEAMS <span style={{ 
+              JOB PORTALS <span style={{ 
                 opacity: showContent ? 1 : 0, 
                 transition: "opacity 2s ease-out", 
                 transitionDelay: "1.6s" 
