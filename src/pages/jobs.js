@@ -191,7 +191,7 @@ const Jobs = () => {
               education: candidate.education || "Bachelor in Computer Science",
               resumeLink:
                 candidate.resumeLink ||
-                `https://drive.google.com/file/d/1uiMliYik2KTIgOuf3d7DReoBvu52TP7B/view?usp=drive_link`,
+                `https://drive.google.com/file/d/1ZxrVxMgnSrw_QQGRY89UWvEtOToHqgPb/view?usp=sharing`,
               applicationDate:
                 candidate.applicationDate || new Date().toLocaleDateString(),
               status: candidate.status || "Under Review",
