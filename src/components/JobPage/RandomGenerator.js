@@ -48,7 +48,7 @@ export const generateCandidates = (count) => {
       ),
       experience: `${Math.floor(Math.random() * 8) + 2} years`,
       education: "Bachelor in Computer Science",
-      resumeLink: `https://drive.google.com/file/d/1uiMliYik2KTIgOuf3d7DReoBvu52TP7B/view?usp=drive_link`,
+      resumeLink: `https://drive.google.com/file/d/1ZxrVxMgnSrw_QQGRY89UWvEtOToHqgPb/view?usp=drive_link`,
       applicationDate: getRandomDate(),
       status: getRandomStatus(),
     }));
