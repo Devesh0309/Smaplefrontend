@@ -91,7 +91,7 @@ const Home = () => {
           {/* Logo */}
           <div>
             <img
-              src="/imageslogo.jpeg"
+              src="/logo.jpeg"
               alt="ENTNT Logo"
               style={{
                 width: "100px",

@@ -177,7 +177,7 @@ export const CandidateModal = ({ candidate, onClose, onStatusUpdate }) => {
                 }}
               >
                 <iframe
-                    src="https://drive.google.com/file/d/1uiMliYik2KTIgOuf3d7DReoBvu52TP7B/preview"
+                    src="https://drive.google.com/file/d/1ZxrVxMgnSrw_QQGRY89UWvEtOToHqgPb/view?usp=sharing"
                     width="100%"
                     height="100%"
                     style={{
